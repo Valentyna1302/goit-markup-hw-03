@@ -43,7 +43,6 @@ img {
 
 .header {
     border-bottom: 1px solid #E7E9FC;
-padding: 24px 0;
 }
 
 .header-container {
@@ -96,7 +95,10 @@ padding: 24px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--primary-black-color);
+    display: block;
+    padding: 24px 0;
 }
+
 
 .header-menu-link:hover, 
 .header-menu-link:focus {
@@ -117,6 +119,8 @@ padding: 24px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--primary-accent-color);
+    display: block;
+    padding: 24px 0;
 }
 
 .header-address-link:hover,
