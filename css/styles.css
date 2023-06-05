@@ -96,8 +96,6 @@ padding: 24px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--primary-black-color);
-    padding: 24px 0;
-    
 }
 
 .header-menu-link:hover, 
@@ -248,7 +246,8 @@ padding: 24px 0;
 
 .team {
     background-color: var(--secondary-white-color);
-    padding-bottom: 120px 0;
+    padding-bottom: 120px;
+    padding-top: 120px;
 
 }
 
@@ -260,7 +259,6 @@ padding: 24px 0;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--primary-black-color);
-    padding-top: 124px;
     margin-bottom: 72px;
 }
 
